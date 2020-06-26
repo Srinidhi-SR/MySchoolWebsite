@@ -1,0 +1,39 @@
+.header{
+ color:turquoise;
+ background-color: black;
+ text-align: center;
+font-size: 150% 
+}
+.begning{
+    display:flex;
+    color:white;
+    background-color: darkcyan;
+    font-size: 150%;
+    margin-top: 35px;
+}
+.intro{
+  color: black;
+  background-color: darkcyan;
+ font-size:  150%;
+ margin-top: 35px;
+}
+.middle{
+  color: black;
+  background-color: turquoise;
+  font-size: 150%;
+  margin-top: 35px;
+}
+.item{
+  color:darkblue;
+font-size: 150%;
+position:sticky;
+}
+a.item:link {
+  color:blue;
+}
+a:visited{
+  color:darkblue;
+}
+a:hover{
+  color:darkgoldenrod;
+}
